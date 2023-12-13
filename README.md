@@ -1,6 +1,5 @@
-# ✌️&nbsp;Hi there ✌️
+# Welcome to my profile
 
-I'm **Dmitry Panarin**, a 18 y.o. student of the *Faculty of Information Technologies and Programming* at the *ITMO University* in St. Petersburg, Russia.
+I'm **Dmitry Panarin**, a 18 y.o. first year student of the *Faculty of Information Technologies and Programming* at the [*ITMO University*](https://en.itmo.ru/en/) in St. Petersburg, Russia.
 
-- 👦 First year student
-- 💻 Python and C++ Enjoyer
+- **Languages:** С / С++ / Python
